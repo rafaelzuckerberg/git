@@ -1,3 +1,4 @@
 teste
 Resetando arquivo
 Eta linha foi adicionada no ramo Master
+Esta linha foi modificado no Ramo teste
